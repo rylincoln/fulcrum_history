@@ -145,7 +145,7 @@ const goAgain = async (token) => {
         message: 'Want to do another?'
     });
     if (goOrStay == true) {
-        console.log('ok getting the forms from fulcrum again... stand by')
+        console.log('weeeee')
         recordRestore(token)
     } else {
         console.log('later gator')
