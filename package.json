@@ -1,0 +1,23 @@
+{
+  "name": "fulcrum_history",
+  "version": "0.0.1",
+  "description": "login to fulcrum, choose a record, revert the history to the supplied version number.",
+  "main": "restoreRecordToPreviosVersion.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rylincoln/fulcrum_history.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rylincoln/fulcrum_history/issues"
+  },
+  "homepage": "https://github.com/rylincoln/fulcrum_history#readme",
+  "dependencies": {
+    "enquirer": "^2.3.6",
+    "fulcrum-app": "^2.5.0"
+  }
+}
