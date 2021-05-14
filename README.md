@@ -1,6 +1,8 @@
 # fulcrum_history
-rollback record history to specific version, 1 at a time.
 
+Simple tool that can be used to rollback record history to specific version, 1 at a time.
+
+Sure it could be better.
 
 ### TODO
 - compare current record to previous version
